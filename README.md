@@ -15,3 +15,11 @@ using [[],[],[],[]...]
 
 23.02.17
 '''
+
+'''
+this make me crazy
+I tried to transfer (using class) old code
+(as only final button can change its image and when I click other buttons, the button which i clicked is same as before, and only the final button shows me what is in the button which I clicked)
+but today's result shows me everything except final bomb button(this one is just my guess)
+2023.02.20
+'''
